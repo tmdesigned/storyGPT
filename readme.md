@@ -31,22 +31,23 @@ Ensure you have OpenAI API credentials:
 
 Create a JSON file containing the initial story setup including characters and the first line of the story.
 
-Example `story_setup.json`:
+Example `cheese.json`:
 
 ```json
 {
-    "story_prompt": "Once upon a time...",
+    "story_prompt": "Taylor the robot is alone on a derelict spaceship. One day, he hears a noise from under his charging station.",
     "characters": [
-        {"name": "Alice", "backstory": "A curious adventurer."},
-        {"name": "Bob", "backstory": "A skeptical scientist."}
+        {"name": "Taylor", "backstory": "Taylor is a lonely, rusty old robot. He carries on out of a sense of duty. Taylor only talks in very short sentences."},
+        {"name": "Cheese", "backstory": "Cheese is a frightened mouse. Cheese cannot talk. Cheese is hungry."},
+        {"name": "Ship", "backstory": "Ship is a spaceship AI. Ship can talk and is sarcastic. Ship has no body. Ship is bitter about being a ship."}
     ],
-    "num_lines": 5
+    "num_lines": 10
 }
 ```
 
 ### Run the Generator
 
-`python story_generator.py story_setup.json`
+`python main.py cheese.json`
 
 ## License
 
