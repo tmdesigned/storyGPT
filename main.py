@@ -3,8 +3,8 @@ import openai
 import json
 import argparse
 
-openai.api_key = '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'
-
+# dont worry, this key is disabled :) put your own here
+openai.api_key = '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' 
 
 def get_input():
     num_characters = int(input("Enter number of characters (up to 4): "))
