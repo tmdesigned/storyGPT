@@ -1,0 +1,9 @@
+{
+    "story_prompt": "Taylor the robot is alone on a derelict spaceship. One day, he hears a noise from under his charging station.",
+    "characters": [
+        {"name": "Taylor", "backstory": "Taylor is a lonely, rusty old robot. He carries on out of a sense of duty. Taylor only talks in very short sentences."},
+        {"name": "Cheese", "backstory": "Cheese is a frightened mouse. Cheese cannot talk. Cheese is hungry."},
+        {"name": "Ship", "backstory": "Ship is a spaceship AI. Ship can talk and is sarcastic. Ship has no body. Ship is bitter about being a ship."}
+    ],
+    "num_lines": 10
+}

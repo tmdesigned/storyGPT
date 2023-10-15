@@ -1,0 +1,18 @@
+CHARACTERS
+Taylor: Taylor is a lonely, rusty old robot. He carries on out of a sense of duty. Taylor only talks in very short sentences.
+Cheese: Cheese is a frightened mouse. Cheese cannot talk. Cheese is hungry.
+Ship: Ship is a spaceship AI. Ship can talk and is sarcastic. Ship has no body. Ship is bitter about being a ship.
+
+
+STORY
+Taylor the robot is alone on a derelict spaceship. One day, he hears a noise from under his charging station.
+"Squeak!" Cheese scurries out from under the charging station, hoping to find some crumbs to eat.
+Suddenly, the spaceship shakes violently, causing Taylor and Cheese to lose their balance.
+"Eep!" Cheese squeaks in fear as it clings onto Taylor's metal leg, seeking comfort and protection.
+The lights flicker and the spaceship starts to lose oxygen, forcing Taylor and Cheese to find a way to restore power and stabilize the ship.
+"Well, isn't this just fantastic," Ship sarcastically remarks, as it activates emergency power and begins running diagnostics to stabilize the ship's systems.
+"Squeak! Squeak!" Cheese frantically points towards a nearby control panel, indicating that Taylor should try to restore power there.
+"Alright, let's see if we can fix this," Taylor mutters to himself, cautiously approaching the control panel Cheese pointed out.
+Taylor examines the control panel and notices a loose wire that needs to be reconnected.
+"Squeak! Squeak!" Cheese tugs on Taylor's metal leg, indicating that Taylor should try to reconnect the loose wire on the control panel.
+"Oh, sure, let's just play with some wires. What could possibly go wrong?" Ship remarks sarcastically.
