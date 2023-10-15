@@ -42,6 +42,7 @@ Example `story_setup.json`:
     ],
     "num_lines": 5
 }
+```
 
 ### Run the Generator
 
